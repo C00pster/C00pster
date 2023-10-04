@@ -4,7 +4,7 @@ Hello! I'm Cooper - an AI enthusiast, Computer Science student, and software dev
 
 📍 Ames, IA
 📧: cooper@coopermckee.com
-🔗: (LinkedIn)[linkedin.com/in/cooper-mckee]
+🔗: [LinkedIn](linkedin.com/in/cooper-mckee)
 
 🎓 Education:
 
@@ -41,5 +41,3 @@ Hello! I'm Cooper - an AI enthusiast, Computer Science student, and software dev
 🤝 Let's Connect!:
 
 Feel free to reach out if you'd like to collaborate on a project, or just chat about tech!
-
-📧: Email | 🌐: LinkedIn
