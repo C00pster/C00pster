@@ -1,8 +1,7 @@
 Cooper McKee 👨‍💻
 
-Hello! I'm Cooper - a Computer Science student and software developer.
+Hello! I'm Cooper - a Computer Science enthusiast and software engineer.
 
-📍 Ames, IA
 📧: cooper@coopermckee.com
 🔗: [LinkedIn](linkedin.com/in/cooper-mckee)
 
@@ -10,11 +9,9 @@ Hello! I'm Cooper - a Computer Science student and software developer.
 
     Bachelor of Science in Computer Science
     🏛 Iowa State University
-    🔜 Anticipated: December 2024
 
     Associate of Science in Computer Science
     🏛 Heartland Community College - Normal, IL
-    🎓 May 2022
 
 🤝 Let's Connect!:
 
